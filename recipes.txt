@@ -1,0 +1,7 @@
+recipe name:biriyani
+ingredients:
+
+rice :1kg
+ghee:100gm
+onion:1kg
+chicken:1kg
